@@ -4,8 +4,17 @@ A Node.js implementation of a Git repository browser using the Model Context Pro
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/bsreeram08/git-commands-mcp)
 [![npm package](https://img.shields.io/npm/v/git-commands-mcp.svg)](https://www.npmjs.com/package/git-commands-mcp)
+[![smithery badge](https://smithery.ai/badge/@Jeetanshu18/git-commands-mcp)](https://smithery.ai/server/@Jeetanshu18/git-commands-mcp)
 
 ## Installation
+
+### Installing via Smithery
+
+To install git-commands-mcp for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@Jeetanshu18/git-commands-mcp):
+
+```bash
+npx -y @smithery/cli install @Jeetanshu18/git-commands-mcp --client claude
+```
 
 ### NPM (Recommended)
 
